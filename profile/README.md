@@ -10,5 +10,11 @@
 
 - [Lokesh V](https://github.com/LokeshVenkatachalam)
 - [Radheshyam Thiyagarajan](https://github.com/Radheshyam23)
-- Manav 
-- Rohan Gupta
+- [Manav Chaudhary](https://github.com/LainWiredIn)
+- [Rohan Gupta](https://github.com/guptarohan6502)
+
+## To run
+
+- run `arduino.ino` for taking the washing machine timer photo
+- run `python3 app2.py` for flask app
+- run `python3 TelegramBot_Final.py`for telegram bot
