@@ -9,6 +9,6 @@
 ## People
 
 - [Lokesh V](https://github.com/LokeshVenkatachalam)
-- [Radheshyam Thiagrajan](https://github.com/Radheshyam23)
+- [Radheshyam Thiyagarajan](https://github.com/Radheshyam23)
 - Manav 
 - Rohan Gupta
